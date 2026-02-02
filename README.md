@@ -1,6 +1,4 @@
-
-
-## Hi there 👋
+![DevOps Banner](./banner.png)
 
  👋 Hi, I’m Lokesh Kumar  
 ### DevOps Engineer | Cloud & Server Administrator
