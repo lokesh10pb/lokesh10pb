@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!--# 👋 Hi, I’m Lokesh Kumar  
+## Hi there 👋
+
+ 👋 Hi, I’m Lokesh Kumar  
 ### DevOps Engineer | Cloud & Server Administrator
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
@@ -159,4 +161,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
